@@ -139,6 +139,7 @@ footer {
   display: none;
 
   overflow-y: scroll;
+  padding-block: 1rem;
 }
 
 .show-result {
